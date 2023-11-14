@@ -9,3 +9,5 @@ try {
     echo 'Erreur : '. $e->getMessage();
     die();
 }
+
+?>
